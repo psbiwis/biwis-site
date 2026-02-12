@@ -149,7 +149,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-20 items-center">
           <div className="relative">
             <div className="absolute -inset-4 bg-orange-500/10 rounded-[4rem] blur-2xl" />
-            <img src="/public/Biwis.png" className="rounded-[3rem] relative z-10 shadow-2xl border border-slate-100" alt="À Propos de BIWIS" />
+            <img src="/biwis.png" className="rounded-[3rem] relative z-10 shadow-2xl border border-slate-100" alt="À Propos de BIWIS" />
           </div>
           <div>
             <h2 className="text-4xl md:text-5xl font-black mb-8 uppercase italic tracking-tighter">Votre partenaire de <span className="text-blue-600">Confiance</span>.</h2>
