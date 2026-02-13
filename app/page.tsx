@@ -48,7 +48,7 @@ export default function Home() {
 
   const portfolioData = {
     web: [
-      { title: "E-Commerce", category: "Next.js", img: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=800" },
+      { title: "E-Commerce", category: "Next.js | WordPress | Bootstrap", img: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=800" },
       { title: "Dashboard Admin", category: "React", img: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800" }
     ],
     design: [
